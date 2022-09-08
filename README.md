@@ -1,11 +1,11 @@
+# sobre mim 
 
 
-
-- 👋 #oiie sou @lelindaaa
+- 👋 # oiie sou @lelindaaa
 - 👀 ## tenho uma marca leticia griffe
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 15 anos
+- 💞️ **Nunca se esqueça de quem voê é** 
+- 📫 Me acompanhe nos storys
 
 <!---
 lelindaaa/lelindaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
